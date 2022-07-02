@@ -1,0 +1,48 @@
+header {
+    background-color: lightblue;
+}
+
+main {
+    background-color: lightcoral;
+}
+
+footer {
+    background-color: green;
+}
+
+.mainNavigation ul {
+    list-style: none;
+}
+
+.mainNavigation a {
+    color: darkgreen
+}
+
+.mainNavigation {
+    display: inline-block;
+}
+
+.mainNavigation li {
+    margin: 3px;
+}
+
+aside {
+background-color:lightseagreen;
+display: inline-block;
+width: 20px;
+}
+
+section {
+    background-color: lightpink;
+}
+
+section.firstSection {
+    display: inline-block;
+    width: 79%;
+}
+
+.form {
+    background-color:darkgrey;
+    width: 750px;
+    height: auto;
+}
